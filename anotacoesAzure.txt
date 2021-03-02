@@ -1,0 +1,7 @@
+Dúvidas:
+
+Como passar dados no corpo de uma requisição e no backend
+pegar esses dados e cadastrar no banco;
+
+Qual a melhor forma de fazer uma Function com vários métodos
+diferentes;
